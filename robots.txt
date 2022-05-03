@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: http://localhost/sitemap.xml
+Sitemap: https://hnc-jihoon.github.io/hugo-site-geekdocs/sitemap.xml
