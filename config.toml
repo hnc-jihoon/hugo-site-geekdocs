@@ -1,6 +1,6 @@
 languageCode = 'en-us'
 
-baseURL = "http://localhost"
+baseURL = "https://hnc-jihoon.github.io/hugo-site-geekdocs/"
 title = "My Hugo Site with Geekdocs"
 theme = "hugo-geekdoc"
 
